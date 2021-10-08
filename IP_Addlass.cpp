@@ -21,7 +21,7 @@ int main()
 {
 	int binary[4][8] ;
 
-	cout << "This Program is made by Prakhar Jain\n";	
+	cout << "This Program is made by Dhruv Ghode\n";	
 	cout<<"Enter the IP in Dotted Decimal Notation:\nEnter first octet:";
 	cin>>binary[0][0];
 	cout<<"Enter second octet:";

@@ -37,7 +37,7 @@ void decToBinary(int n, int binaryNum[])
 
 int main()
 {
-    cout << "This Program is made by Prakhar Jain\n";
+    cout << "This Program is made by Dhruv Ghode \n";
     char alfa1, alfa2;
     int binaryNum1[8] = {0}, binaryNum2[8] = {0}, lrc[8] = {0};
     cin >> alfa1 >> alfa2;

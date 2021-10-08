@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    cout << "This Program is made by Prakhar Jain\n";
+    cout << "This Program is made by Dhruv Ghode\n";
     int a[10], n, i;
     cout << "Enter the number to convert: ";
     cin >> n;

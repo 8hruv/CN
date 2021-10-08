@@ -18,7 +18,7 @@ using namespace std;
 
 void decToBin( int binArr[][8] , int row )
 {
-	cout << "This Program is made by Prakhar Jain\n";
+	cout << "This Program is made by Dhruv Ghode\n";
 	int num = binArr[row][0];
 	int index = 7 ;
     while (index >= 0 ) 

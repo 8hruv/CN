@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int n, count = 0;
-    cout << "This Program is made by Prakhar Jain\n";
+    cout << "This Program is made by Dhruv Ghode\n";
     cout << "enter no of bites in data : ";
     cin >> n;
     int ar[n], a[8] = {0, 1, 1, 1, 1, 1, 1, 0};

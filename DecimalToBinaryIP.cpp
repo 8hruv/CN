@@ -1,19 +1,4 @@
-/* Program Objective: To convert Dotted Decimal Notation IP to Binary Notation IP
-Name of the Author: Nidhi Mehta
-Date of First Creation: 17/09/2021
-Date of Last Modification: 17/09/2021 */
 
-/*Program 4: Write a program to convert Dotted Decimal Notation IP to Binary Notation IP
-Sample input by user:
-Enter the IP in Dotted Decimal Notation:
-Enter first octet: 126
-Enter second octet: 7
-Enter third octet: 89
-Enter fourth octet: 76
-You entered in Dotted Decimal Notation: 126.7.89.76
-Sample output:
-IP in Binary Decimal Notation:
-01111110 00000111 01011001 01001100 */
 
 #include <iostream>
 #include <algorithm>

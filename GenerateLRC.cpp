@@ -1,12 +1,4 @@
-/* Program Objective: To generate LRC for given characters
-Name of the Author: Nidhi Mehta
-Date of First Creation: 06/09/2021
-Date of Last Modification: 06/09/2021 */
 
-/* Program 2: Write a program to generate LRC for given Characters.
-Input: Two Characters (Any Letter, digit or symbol) (ASCII value to binary)
-(Generate binary (8 bits) according to the ASCII value)
-Output: LRC with even/odd parity in 8 bits */
 
 #include <iostream>
 #include <algorithm>

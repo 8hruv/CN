@@ -1,12 +1,4 @@
-/* Program Objective: To suggest class IP address to adopt in order to perform networking using given number of hosts
-Name of the Author: Nidhi Mehta
-Date of First Creation: 01/10/2021
-Date of Last Modification: 01/10/2021 */
 
-/*Program 9: Write a program to suggest the user that which class IP address he/she can adopt in order to perform networking (using Classful Addressing)
-Input: Number of Hosts
-Output: Suggested IP address Class/ Classes.
-*/
 
 #include <bits/stdc++.h>
 #include <math.h>

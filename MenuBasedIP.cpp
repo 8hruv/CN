@@ -1,13 +1,4 @@
-/* Program Objective: To make a menu based IP
-Name of the Author: Nidhi Mehta
-Date of First Creation: 24/09/2021
-Date of Last Modification: 24/09/2021 */
 
-/*Program 7: Write a menu based program to
-i) Convert Dotted Decimal Notation IP to Binary Notation IP
-ii) Convert Binary Notation IP to Dotted Decimal Notation IP
-iii) Display the class of the IP Address
-*/
 
 #include <iostream>
 #include <algorithm>

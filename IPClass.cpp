@@ -1,16 +1,4 @@
-/* Program Objective: To display the class of the IP Address entered by the user
-Name of the Author: Nidhi Mehta
-Date of First Creation: 17/09/2021
-Date of Last Modification: 17/09/2021 */
 
-/*Program 5: Write a program to display the class of the IP Address entered by the user.
-Sample Input:
-Enter the IP Address in Dotted Decimal Notation: 193.90.74.125
-Enter the first octet: 193
-Enter the second octet: 90
-Enter the third octet: 74
-Enter the fourth octet: 125
-Sample Output: It is Class C address */
 
 #include <iostream>
 using namespace std;

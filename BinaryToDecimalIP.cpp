@@ -1,16 +1,3 @@
-/* Program Objective: To convert IP address in Binary notation to Dotted Decimal Notation
-Name of the Author: Nidhi Mehta
-Date of First Creation: 24/09/2021
-Date of Last Modification: 24/09/2021 */
-
-/*Program 6: Write a program to convert IP address provided by the user in Binary notation to Dotted Decimal Notation entered by the user.
-Sample Input:
-Enter the IP Address in Dotted Decimal Notation:
-Enter the Binary for first octet: 10001001
-Enter the Binary for second octet: 01111011
-Enter the Binary for third octet: 10000000
-Enter the Binary for fourth octet: 11111011
-Sample Output: The given IP address is: 137.123.128.251 */
 
 #include <iostream>
 using namespace std;

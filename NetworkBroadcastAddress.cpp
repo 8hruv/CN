@@ -1,11 +1,3 @@
-/* Program Objective: To find out the Class, Network Address and Broadcast Address of the IP address
-Name of the Author: Nidhi Mehta
-Date of First Creation: 01/10/2021
-Date of Last Modification: 01/10/2021 */
-
-/*Program 8: Write a program to find out the Class, Network Address and Broadcast Address of the IP address provided by the user
-(in classful Addressing)
-*/
 
 #include <iostream>
 using namespace std;
